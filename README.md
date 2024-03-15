@@ -91,5 +91,6 @@ endmodule
 
 
 **Result:**
+Thus,the study of logic gates program verified successfully.
 
 
